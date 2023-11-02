@@ -4,7 +4,7 @@ Olá, Tudo bem ?
 
 Segue minha solução para o teste apresentado. Tentei mostrar algumas tecnicas que conheço. Fico a disposição para dúvidas e explicações sobre esse modelo.
 
-Utilizei Selenium Webdriver com Python para realizar os testes front-end, Postman para realizar os testes back-end e a extensão Cucumber Scenario no Pycharm para criar os cenários de teste de ambos, utilizando o método BDD escrito em Gherkin. Automação dos testes da API Rest, fiz no Pycharm.
+Utilizei Selenium Webdriver com Python para realizar os testes front-end, Postman para realizar os testes back-end e a extensão Cucumber Scenario no Pycharm para criar os cenários de teste de ambos, utilizando o método BDD escrito em Gherkin. Automação dos testes da API Rest, utilizei o Pytest.
 
 * Para o Teste 1 - Criei o arquivo com os cenarios de testes: 'validacao_user_settings.feature' que está no caminho abaixo:
 
@@ -28,7 +28,7 @@ Utilizei Selenium Webdriver com Python para realizar os testes front-end, Postma
 
   ° teste_Pìxeon > Automacao back-end
 
-Para a automação do teste Back-End certifique-se de ter o Python instalado. Se não tiver o pytest e a biblioteca requests, instale-os via pip:
+Para a automação do teste Back-End certifique-se de ter o PyCharm instalado. Se não tiver o pytest e a biblioteca requests, instale-os via pip:
 
 pip install requests pytest
 
