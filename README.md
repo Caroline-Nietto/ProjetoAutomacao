@@ -14,9 +14,10 @@ Utilizei Selenium Webdriver com Python para realizar os testes front-end, Postma
 
      ° projeto_automacao > features  
 
-  Para a Automação Front-End criei o arquivo:
+  Para a Automação Front-End 2 diretótios:
 
-  ° projeto_automacao > meu_projeto  
+  ° projeto_automacao > Automacao_botao_start
+  ° projeto_automacao > Automacao_Login  
   
 * Para o Teste 3 - Criei o arquivo com os cenarios de testes: 'test_backEnd.feature' que está no caminho abaixo:
 
