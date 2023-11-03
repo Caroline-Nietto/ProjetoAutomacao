@@ -31,7 +31,7 @@ Utilizei Selenium Webdriver com Python para realizar os testes front-end, Postma
 
   ° projeto_automacao > Automacao back-end
 
-Para a automação do teste Back-End certifique-se de ter o PyCharm instalado. Se não tiver o pytest e a biblioteca requests, instale-os via pip:
+Para a automação do teste Back-End se não tiver o pytest e a biblioteca requests, instale-os via pip:
 
 pip install requests pytest
 
@@ -39,7 +39,7 @@ Para rodar todos os testes:
 
 pytest api_tests.py
 
-Para rodar apenas um teste específico:
+Para rodar um teste específico:
 
 pytest api_tests.py::test_post_new_user
 
